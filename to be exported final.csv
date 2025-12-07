@@ -1,4 +1,4 @@
-Country,LifeExpectancy,ln(GDP),PM2.5,War Dummye,ChildMortality
+Country,LifeExpectancy,ln(GDP),PM2.5,War Dummy,ChildMortality
 Afghanistan,61.4537,7.859011916,46.08709367,1,6.13
 Albania,77.8241,9.582734893,15.70700364,0,0.94
 Algeria,73.2568,9.451854467,25.55265583,1,2.29
